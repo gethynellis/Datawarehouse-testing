@@ -23,3 +23,20 @@ Talend had the combination of modularity, scalability, simplicity, cost efficien
 The Citizen Analyst initiative has helped non-technical staff do their own data analysis using simple interfaces, easy-to-use tools and high-quality data — all integrated by Talend — to drive better patient care and healthier business decisions.
 
 “We’re creating a culture of curiosity,” explains Kevin Ryan, Director of Business Intelligence at Wolters Kluwer Health. “That’s a cultural shift, but it’s a change that people are embracing because everyone wins. Product teams get insights sooner, they are less dependant on the BI team, they can share results with business leaders and get buy-in faster, and ultimately the outcome is better products and services that benefit doctors and patients.”
+
+
+# Group Discussion – Advantages and difficulties of database testing 
+
+The case studeis above show the advantages that having trus in data can bring. That said, datawarehouse and BI  has traditionally been difficult to undertake. 
+
+In your groups please discuss the advantages of carrying out datawarehouse and BI testing and the difficulties that might present itself when testing a database
+
+Make a list of the advantages, difficulties and business benefits of datawarehouse and BI testing and some of the approaches you might take
+
+Expected Time 30   Minutes
+
+Advantages
+
+Difficulties
+
+Business Benefits
