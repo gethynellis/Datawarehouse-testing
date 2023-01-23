@@ -31,12 +31,16 @@ The case studeis above show the advantages that having trus in data can bring. T
 
 In your groups please discuss the advantages of carrying out datawarehouse and BI testing and the difficulties that might present itself when testing a database
 
-Make a list of the advantages, difficulties and business benefits of datawarehouse and BI testing and some of the approaches you might take
+Make a list of the advantages, difficulties and business benefits of datawarehouse and BI testing and some of the approaches you might take.
 
-Expected Time 30   Minutes
+You will complete this in groups. See your instructor for more details on the group.
 
-Advantages
+Please use a blank word document on your l
 
-Difficulties
+Expected Time 45    Minutes
 
-Business Benefits
+## Advantages
+
+## Difficulties
+
+## Business Benefits
