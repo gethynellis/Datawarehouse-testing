@@ -25,7 +25,7 @@ The Citizen Analyst initiative has helped non-technical staff do their own data 
 “We’re creating a culture of curiosity,” explains Kevin Ryan, Director of Business Intelligence at Wolters Kluwer Health. “That’s a cultural shift, but it’s a change that people are embracing because everyone wins. Product teams get insights sooner, they are less dependant on the BI team, they can share results with business leaders and get buy-in faster, and ultimately the outcome is better products and services that benefit doctors and patients.”
 
 
-# Group Discussion – Advantages and difficulties of database testing 
+# Group Discussion – Advantages and difficulties of data warehouse  testing 
 
 The case studeis above show the advantages that having trus in data can bring. That said, datawarehouse and BI  has traditionally been difficult to undertake. 
 
