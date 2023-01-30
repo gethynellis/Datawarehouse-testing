@@ -9,7 +9,7 @@ To begin we will tSQLt to unit test your databases but we will build a
 demo database called Bikehop with some dummy data in there to demo our
 tests. We will use SQL Server Management studio on the demo pc to complete this run through
 
-You will find all the scripts in the c:\courses folder of the lab machine. You can run thr scripts using SQL Server Management Studio
+You will find all the scripts in the c:\courses folder of the lab machine. You can run thr scripts using SQL Server Management Studio. All the scripts have comments and explanations, read the comments and execute the sections of the script one by one, you can do this by highlighting the section of the scrit and pressing **Execute** or **F5**
 
 
 
